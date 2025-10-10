@@ -1,0 +1,3 @@
+As part of my learning process to master the basics of HTML markup language, I am required to create a website featuring simple recipes. To complete this project, I must apply all my knowledge of the fundamental principles of this language. More specifically, I must be able to write the initial structure of each web page. I must ensure that HTML elements are correctly indented and nested. I must know how to use the appropriate tags and attributes for each element added to my web pages.
+
+In addition, this project is also an opportunity to consolidate my skills in using Git and GitHub. 
