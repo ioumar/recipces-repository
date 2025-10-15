@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    display: inline-block;
+    padding: 20px;
+    margin-right: 200px;
+    font-family:Helvetica, sans-serif;
+    text-transform: uppercase;
+}
+
+ul{
+     display: inline;
+}
+
+li{
+    display: inline;
+    list-style: none;
+    margin-right: 20px;
+    font-family: Helvetica, sans-serif;
+    text-transform: uppercase;
+}
+
+a{
+    text-decoration: none;
+    color: saddlebrown
+}
